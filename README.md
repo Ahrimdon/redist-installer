@@ -1,4 +1,4 @@
-# redist-installer-by-chxseh
+# redist-installer
 * ### ***This [batch file](https://github.com/chxseh/redist-installer/blob/main/README.md) was enirely created by [chxseh](https://github.com/chxseh)***
 
 <div align="center">
